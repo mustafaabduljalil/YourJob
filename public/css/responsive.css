@@ -1,0 +1,13 @@
+@media (width: 1024px){
+.navbar-nav {
+    position: absolute;
+    left: 74px;
+}
+.navbar-nav>li {
+    font-size: large;
+    margin-right: 0px;
+}
+
+
+
+}
